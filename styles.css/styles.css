@@ -1,0 +1,51 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.titleimg{
+    background-color: #EFF5F5;
+    padding: 15px 50px;
+   
+    height: 170px;
+}
+footer{
+position: absolute;
+bottom: 0;
+left: 0;
+right: 0;
+background-color: #EFF5F5;
+height: 30vh;
+width: 100%;
+padding-top: 40px;
+padding-bottom: 40px ;
+text-align: center;
+}
+.insta{
+    padding: 10px 5px;  
+    height: 50px;
+}
+.tweeter{
+    padding: 10px 5px;
+    height: 50px;
+}
+.youtube{
+    padding: 10px 5px;
+    height: 50px;
+}
+.heading1{
+    font-size: 30px;
+}
+.heading2{
+  padding-top: 10px ;
+  padding-bottom: 10px;
+}
+.andriod{
+  
+    padding: 10px 40px;
+}
+.ios{
+    padding-bottom: 10px;
+}
